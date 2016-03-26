@@ -128,3 +128,34 @@ h2{
     -webkit-animation: LOAD2 1s ease-in-out 0.6s infinite alternate;
     -o-animation: LOAD2 1s ease-in-out 0.6s infinite alternate;
 }
+
+/*LOAD3效果*/
+.circle{
+    width: 117px;
+    border: 0;
+    margin: auto;
+}
+.c{
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: rgba(255,255,255,0.2);
+}
+.x_r{
+    width: 15px;
+}
+.x_d1{
+    width: 1px;
+}
+.x_d2{
+    width: 20px;
+}
+.y_r{
+    height: 15px;
+}
+.y_d1{
+    height: 1px;
+}
+.y_d2{
+    height: 20px;
+}
