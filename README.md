@@ -7,3 +7,6 @@ Loading samples based on CSS3 animation
 * LOAD2: 三条状波动效果
 * LOAD3: 环点状闪烁效果
 * LOAD4: 环点状由小变大效果
+
+# 效果预览
+![Sample Style](https://raw.githubusercontent.com/xqiqi/loading/master/sample-style.png)
